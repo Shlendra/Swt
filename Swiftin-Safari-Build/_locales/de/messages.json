@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Swiftin - KI-Übersetzer für Webseiten, Untertitel und was Sie tippen",
+    "description": "Extension name shown in Chrome Web Store and browser"
+  },
+  "extDescription": {
+    "message": "Zweisprachige KI-Übersetzung: Seiten, Untertitel & PDFs. Tippen & Bearbeiten in jedem Eingabefeld. 100+ Sprachen, 6+ KI-Engines.",
+    "description": "Extension description shown in Chrome Web Store"
+  }
+}

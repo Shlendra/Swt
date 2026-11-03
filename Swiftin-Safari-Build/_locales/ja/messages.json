@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Swiftin - サイト・字幕・入力テキストのAI翻訳",
+    "description": "Extension name shown in Chrome Web Store and browser"
+  },
+  "extDescription": {
+    "message": "ページ・字幕・PDFのバイリンガルAI翻訳。どんな入力欄でも書いて編集できる。100以上の言語、6つ以上のAIエンジン。",
+    "description": "Extension description shown in Chrome Web Store"
+  }
+}

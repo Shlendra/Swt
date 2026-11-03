@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Swiftin - AI translator for sites, subtitles and what you type",
+    "description": "Extension name shown in Chrome Web Store and browser"
+  },
+  "extDescription": {
+    "message": "Bilingual AI translator for pages, subtitles & PDFs. Write & edit in any input field. 100+ languages, 6+ AI engines.",
+    "description": "Extension description shown in Chrome Web Store"
+  }
+}

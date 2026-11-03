@@ -1,0 +1,10 @@
+{
+  "extName": {
+    "message": "Swiftin - siteler, altyazılar ve yazdıklarınız için AI çevirmen",
+    "description": "Extension name shown in Chrome Web Store and browser"
+  },
+  "extDescription": {
+    "message": "Sayfalar, altyazılar ve PDF'ler için iki dilli AI çevirisi. Herhangi bir giriş alanında yazın ve düzenleyin. 100+ dil, 6+ AI motoru.",
+    "description": "Extension description shown in Chrome Web Store"
+  }
+}
